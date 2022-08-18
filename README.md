@@ -1,6 +1,6 @@
 <a href="#">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=shanamaid&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=shanamaid&column=8&theme=onedark"/>
     </p>
 </a>
 
